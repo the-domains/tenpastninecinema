@@ -5,21 +5,23 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Happy Drones
-datePublished: '2016-05-02T05:30:23.268Z'
-dateModified: '2016-05-02T05:30:12.904Z'
+datePublished: '2016-05-02T05:31:09.597Z'
+dateModified: '2016-05-02T05:30:50.765Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-02-happy-drones.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-05-02-happy-drones.md
-published: true
 url: happy-drones/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/992ae7db-2236-478c-a19f-e56daeae66bf.jpg)
+
 Happy Drones
